@@ -231,7 +231,7 @@ Elastic_Beanstalk_RDS-S3/
 
 ## 🙌 Author
 
-**Harshad A Khorgade**  
+**MANJUSHA NARWADE**  
 🔗 [GitHub Profile](https://github.com/harshadakhorgade)
 
 ---

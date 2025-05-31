@@ -232,7 +232,7 @@ Elastic_Beanstalk_RDS-S3/
 ## 🙌 Author
 
 **MANJUSHA NARWADE**  
-🔗 [GitHub Profile](https://github.com/harshadakhorgade)
+
 
 ---
 
